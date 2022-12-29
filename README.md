@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a master student in Statistical Science and have 6+ work experience in many startups and industries. Interested in predictive modeling and causal inference. Strength in project and risk management.
+I am a master student in Statistical Science and have 6+ work experience in many startups and industries. Interested in predictive modeling and causal inference. Strength in project management. I am a self-motivated, well-disciplined and quick learner.
 
 - 🌱 I’m currently learning Statistics at graduate school in US.
 - 🔭 I’m currently improving my skills regarding python, R, SQL, Airflow.
 
-### 📫 Reach me at 
+## 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kyungeun-jeon-01059a106)
 
 <!--
