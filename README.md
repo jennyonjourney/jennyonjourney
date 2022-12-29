@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a master student in Statistical Science and have 6+ work experience in many startups and industries. Interested in predictive modeling, causal inference and project management.
+I am a master student in Statistical Science and have 6+ work experience in many startups and industries. Interested in predictive modeling and causal inference. Strength in project and risk management.
 
 - 🌱 I’m currently learning Statistics at graduate school in US.
 - 🔭 I’m currently improving my skills regarding python, R, SQL, Airflow.
