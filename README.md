@@ -2,7 +2,7 @@
 
 I am a master student in Statistical Science and have 6+ work experience in many startups and industries. Interested in predictive modeling and causal inference. Strength in project management. I am a self-motivated, well-disciplined person and a quick learner.
 
-- 🌱 I’m currently learning Statistics at graduate school in US.
+- 🌱 I’m currently learning Statistics at graduate school in the US.
 - 🔭 I’m currently improving my skills regarding python, R, SQL.
 
 #### 📫 Reach me at 
