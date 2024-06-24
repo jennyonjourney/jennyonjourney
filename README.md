@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I am a master student in Statistical Science and have 6+ work experience in many startups and industries. Interested in predictive modeling and causal inference. Strength in project management. I am a self-motivated, well-disciplined person and a quick learner.
-
-- 🌱 I’m currently learning Statistics at graduate school in the US.
-- 🔭 I’m currently improving my skills regarding python, R, SQL.
+Master of Statistical Science with over 6 years of experience in data analysis, management, and visualization in both clinical research and industry settings. Skilled in statistical analysis, particularly with medical and Electronic Health Record (EHR) data, using tools such as R and Python. Proficient in designing and executing extensive simulations, A/B testing, and performing clinical data analysis.
 
 #### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kyungeun-jeon-01059a106)
+[LinkedIn](https://www.linkedin.com/in/kyungeun-jeon-01059a106)
 
 <!--
 **jennyonjourney/jennyonjourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
