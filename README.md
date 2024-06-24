@@ -2,6 +2,10 @@
 
 Master of Statistical Science with over 6 years of experience in data analysis, management, and visualization in both clinical research and industry settings. Skilled in statistical analysis, particularly with medical and Electronic Health Record (EHR) data, using tools such as R and Python. Proficient in designing and executing extensive simulations, A/B testing, and performing clinical data analysis.
 
+- Research Interest: Causal Inference, Hierarchical Modeling, Predictive Modeling, Machine Learning, Bayesian Modeling
+- Analysis and Visualization tools: R, Python, SQL, SAS, SPSS, VBA, Tableau, PowerBI, Looker
+- Additional Training: A/B Testing, Data Governance, Project Management, Agile Framework
+
 #### 📫 Reach me at 
 [LinkedIn](https://www.linkedin.com/in/kyungeun-jeon-01059a106)
 
